@@ -1,1 +1,2 @@
-# Shopsavvy-Online-web-for-product-buying-and-price-comparision-feature
+# Grocery-Ecommerce
+A Multi Vendor Ecommerce Grocery Store using Html, CSS, Javascript, Bootstrap, PHP and Mysql
